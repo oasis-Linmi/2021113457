@@ -82,8 +82,12 @@ public class queryBridgeWords{
     }
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 //modify on B1
 =======
 //modify1
 //modify on C4
 >>>>>>> C4
+=======
+//modify on B2
+>>>>>>> B2
