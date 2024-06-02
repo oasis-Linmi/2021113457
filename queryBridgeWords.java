@@ -81,3 +81,4 @@ public class queryBridgeWords{
         return ret.toArray(new String[0]);
     }
 }
+//modify on B1
